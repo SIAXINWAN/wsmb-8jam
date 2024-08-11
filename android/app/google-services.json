@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "305638827306",
+    "project_id": "wsmb-6jam",
+    "storage_bucket": "wsmb-6jam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305638827306:android:59a2aae9bf1e844a0e6a53",
+        "android_client_info": {
+          "package_name": "com.example.wsmb_day1_try6_jam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgBHgcdQNCf8syuquVkhqF1SgecCH_SJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305638827306:android:d8360def57776a810e6a53",
+        "android_client_info": {
+          "package_name": "com.example.wsmb_day2_try8_jam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgBHgcdQNCf8syuquVkhqF1SgecCH_SJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
